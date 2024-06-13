@@ -1,0 +1,324 @@
+{
+ "header": {
+  "gtfs_realtime_version": "2.0",
+  "incrementality": "FULL_DATASET",
+  "timestamp": "1713185708"
+ },
+ "entity": [
+  {
+   "id": "V1",
+   "vehicle": {
+    "trip": {
+     "trip_id": "3946_1238",
+     "start_time": "13:20:00",
+     "start_date": "20240415",
+     "schedule_relationship": "SCHEDULED",
+     "route_id": "3946_63137",
+     "direction_id": 1
+    },
+    "position": {
+     "latitude": 53.1963348,
+     "longitude": -6.67265511
+    },
+    "timestamp": "1713185685",
+    "vehicle": {
+     "id": "3"
+    }
+   }
+  },
+  {
+   "id": "V2",
+   "vehicle": {
+    "trip": {
+     "trip_id": "3946_705",
+     "start_time": "13:35:00",
+     "start_date": "20240415",
+     "schedule_relationship": "SCHEDULED",
+     "route_id": "3946_63136",
+     "direction_id": 0
+    },
+    "position": {
+     "latitude": 53.3409233,
+     "longitude": -6.3076129
+    },
+    "timestamp": "1713185690",
+    "vehicle": {
+     "id": "4"
+    }
+   }
+  },
+  {
+   "id": "V3",
+   "vehicle": {
+    "trip": {
+     "trip_id": "3946_421",
+     "start_time": "13:53:00",
+     "start_date": "20240415",
+     "schedule_relationship": "SCHEDULED",
+     "route_id": "3946_63139",
+     "direction_id": 1
+    },
+    "position": {
+     "latitude": 53.1825485,
+     "longitude": -6.80418301
+    },
+    "timestamp": "1713185694",
+    "vehicle": {
+     "id": "5"
+    }
+   }
+  },
+  {
+   "id": "V4",
+   "vehicle": {
+    "trip": {
+     "trip_id": "3745_958",
+     "start_time": "13:40:00",
+     "start_date": "20240415",
+     "schedule_relationship": "SCHEDULED",
+     "route_id": "3745_58425",
+     "direction_id": 0
+    },
+    "position": {
+     "latitude": 52.2500954,
+     "longitude": -7.1383791
+    },
+    "timestamp": "1713185696",
+    "vehicle": {
+     "id": "8"
+    }
+   }
+  },
+  {
+   "id": "V5",
+   "vehicle": {
+    "trip": {
+     "trip_id": "3745_1641",
+     "start_time": "14:00:00",
+     "start_date": "20240415",
+     "schedule_relationship": "SCHEDULED",
+     "route_id": "3745_58424",
+     "direction_id": 0
+    },
+    "position": {
+     "latitude": 52.2620697,
+     "longitude": -7.11068392
+    },
+    "timestamp": "1713185663",
+    "vehicle": {
+     "id": "9"
+    }
+   }
+  },
+  {
+   "id": "V6",
+   "vehicle": {
+    "trip": {
+     "trip_id": "3745_2197",
+     "start_time": "13:30:00",
+     "start_date": "20240415",
+     "schedule_relationship": "SCHEDULED",
+     "route_id": "3745_58426",
+     "direction_id": 0
+    },
+    "position": {
+     "latitude": 52.249382,
+     "longitude": -7.14391899
+    },
+    "timestamp": "1713185686",
+    "vehicle": {
+     "id": "10"
+    }
+   }
+  },
+  {
+   "id": "V7",
+   "vehicle": {
+    "trip": {
+     "trip_id": "3745_3812",
+     "start_time": "14:00:00",
+     "start_date": "20240415",
+     "schedule_relationship": "SCHEDULED",
+     "route_id": "3745_58427",
+     "direction_id": 1
+    },
+    "position": {
+     "latitude": 52.2612267,
+     "longitude": -7.13870478
+    },
+    "timestamp": "1713185121",
+    "vehicle": {
+     "id": "11"
+    }
+   }
+  },
+  {
+   "id": "V8",
+   "vehicle": {
+    "trip": {
+     "trip_id": "3745_303",
+     "start_time": "13:50:00",
+     "start_date": "20240415",
+     "schedule_relationship": "SCHEDULED",
+     "route_id": "3745_58423",
+     "direction_id": 0
+    },
+    "position": {
+     "latitude": 52.2576675,
+     "longitude": -7.11079216
+    },
+    "timestamp": "1713185691",
+    "vehicle": {
+     "id": "13"
+    }
+   }
+  },
+  {
+   "id": "V9",
+   "vehicle": {
+    "trip": {
+     "trip_id": "3745_946",
+     "start_time": "13:20:00",
+     "start_date": "20240415",
+     "schedule_relationship": "SCHEDULED",
+     "route_id": "3745_58425",
+     "direction_id": 0
+    },
+    "position": {
+     "latitude": 52.2597389,
+     "longitude": -7.10644817
+    },
+    "timestamp": "1713185687",
+    "vehicle": {
+     "id": "14"
+    }
+   }
+  },
+  {
+   "id": "V10",
+   "vehicle": {
+    "trip": {
+     "trip_id": "3745_290",
+     "start_time": "13:30:00",
+     "start_date": "20240415",
+     "schedule_relationship": "SCHEDULED",
+     "route_id": "3745_58423",
+     "direction_id": 0
+    },
+    "position": {
+     "latitude": 52.2425842,
+     "longitude": -7.13805389
+    },
+    "timestamp": "1713185695",
+    "vehicle": {
+     "id": "16"
+    }
+   }
+  },
+  {
+   "id": "V11",
+   "vehicle": {
+    "trip": {
+     "trip_id": "3946_680",
+     "start_time": "12:05:00",
+     "start_date": "20240415",
+     "schedule_relationship": "SCHEDULED",
+     "route_id": "3946_63136",
+     "direction_id": 0
+    },
+    "position": {
+     "latitude": 53.1798935,
+     "longitude": -6.79864407
+    },
+    "timestamp": "1713185691",
+    "vehicle": {
+     "id": "20"
+    }
+   }
+  },
+  {
+   "id": "V12",
+   "vehicle": {
+    "trip": {
+     "trip_id": "3946_978",
+     "start_time": "13:16:00",
+     "start_date": "20240415",
+     "schedule_relationship": "SCHEDULED",
+     "route_id": "3946_63136",
+     "direction_id": 1
+    },
+    "position": {
+     "latitude": 53.1612549,
+     "longitude": -6.82384205
+    },
+    "timestamp": "1713185685",
+    "vehicle": {
+     "id": "21"
+    }
+   }
+  },
+  {
+   "id": "V13",
+   "vehicle": {
+    "trip": {
+     "trip_id": "3946_973",
+     "start_time": "13:15:00",
+     "start_date": "20240415",
+     "schedule_relationship": "SCHEDULED",
+     "route_id": "3946_63136",
+     "direction_id": 1
+    },
+    "position": {
+     "latitude": 53.2445526,
+     "longitude": -6.60423
+    },
+    "timestamp": "1713185697",
+    "vehicle": {
+     "id": "23"
+    }
+   }
+  },
+  {
+   "id": "V14",
+   "vehicle": {
+    "trip": {
+     "trip_id": "3946_402",
+     "start_time": "13:00:00",
+     "start_date": "20240415",
+     "schedule_relationship": "SCHEDULED",
+     "route_id": "3946_63139",
+     "direction_id": 0
+    },
+    "position": {
+     "latitude": 53.3141937,
+     "longitude": -6.61129
+    },
+    "timestamp": "1713185685",
+    "vehicle": {
+     "id": "26"
+    }
+   }
+  },
+  {
+   "id": "V15",
+   "vehicle": {
+    "trip": {
+     "trip_id": "3946_281",
+     "start_time": "12:20:00",
+     "start_date": "20240415",
+     "schedule_relationship": "SCHEDULED",
+     "route_id": "3946_63134",
+     "direction_id": 1
+    },
+    "position": {
+     "latitude": 53.3532219,
+     "longitude": -6.36126709
+    },
+    "timestamp": "1713185691",
+    "vehicle": {
+     "id": "28"
+    }
+   }
+  }
+ ]
+}
